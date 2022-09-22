@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1663885354 source:c:\users\sebas\desktop\laboratorio2\menu\menu\main.cpp
+	<iostream>
+	<string>
+	"Items.h"
+	"Menu.h"
+
+1663886470 c:\users\sebas\desktop\laboratorio2\menu\menu\include\items.h
+
+1663886624 c:\users\sebas\desktop\laboratorio2\menu\menu\include\menu.h
+
+1663886489 source:c:\users\sebas\desktop\laboratorio2\menu\menu\src\items.cpp
+	<iostream>
+	<string>
+	"Items.h"
+
+1663886260 source:c:\users\sebas\desktop\laboratorio2\menu\menu\src\menu.cpp
+	<iostream>
+	<string>
+	"Items.h"
+	"Menu.h"
+
